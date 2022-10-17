@@ -1,0 +1,15 @@
+diffrance B/W jpa And Hibernet
+JPA:-
+JPA stands for Java Persistence API.
+It is used to examine, control, and persist data between Java objects and relational databases. 
+It is observed as a standard technique for Object Relational Mapping. 
+JPA does not conduct any functioning by itself Therefore, it needs implementation.
+ Hence for data persistence ORM tools like Hibernate implements JPA.
+
+Hibernate is framwork 
+to map the Java classes to database tables. 
+Following are some key features of Hibernate 
+
+1.Hibernate is an implementation of JPA guidelines.
+2.It helps in mapping Java data types to SQL data types.
+3.It is the contributor of JPA.
